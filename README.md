@@ -1,4 +1,4 @@
-# Anime Scraper
+# Anime FLV List extractor
 
 Proyecto en Python diseñado para hacer scraping de páginas de anime.
 
