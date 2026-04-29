@@ -1,0 +1,22 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+.env
+
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.idea/
+
+# Datos (para no subir resultados masivos a git por error)
+data/*.json
+data/*.csv
+data/*.xlsx
+!data/.keep
